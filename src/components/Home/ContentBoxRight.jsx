@@ -71,7 +71,7 @@ function ContentBoxRight(){
             <h6 className="color-navy"><i className="fa fa-calendar fa-fw margin-right"></i>
               May 2013
             </h6>
-            <p>Graduated with a 3.6 GPA. Simultaneously acquired my BSc. and Commerial Pilot Licence.  Academic focus on Aviation and Environmental Science.</p>
+            <p>Graduated with a 3.6 GPA. Simultaneously acquired my BSc. and Commercial Pilot Licence.  Academic focus on Aviation and Environmental Science.</p>
           </div>
         </div>
       </div>

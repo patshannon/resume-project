@@ -29,7 +29,7 @@ function ContentBox(){
                             I also developed my data analysis skills by analyzing data to figure out what areas of training needed improvements.
                         <br></br>
                         <br></br>
-                            From instructing I then progressed into more traditional pilot jobs.  I have flown medivac missions (air ambulance) all over the Maritime's in varies weather conditions.  
+                            From instructing I then progressed into more traditional pilot jobs.  I have flown medevac missions (air ambulance) all over the Maritime's in varies weather conditions.  
                             At my current job I have flown all over Eastern Canada and into the United States for an airline operator.  Both these jobs have allowed me to enhance the skills needed to be a great team member.   
                             My communication, CRM(crew resource management), customer service as well as my technical pilot skills have been expanded as these skills are utilized on every flight.
                         <br></br>
