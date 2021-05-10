@@ -10,18 +10,17 @@ import { logDOM } from "@testing-library/dom";
 
 const routes = [
   { path: '/', name: 'Home', Component: Home },
-  { path: '/about', name: 'About', Component: About },
-  { path: '/contact', name: 'Contact', Component: Contact },
+  { path: '/about-me', name: 'About Me', Component: About },
+  // { path: '/contact', name: 'Contact', Component: Contact },      // WORK IN PROGESS
 ]
 
 
 function App(){
   return(
-
     <Router>
       <>
-      <div className="padding-16">
-            <nav className="justify-center">
+        <div className="padding-16">
+          <nav className="justify-center">
             {routes.map(route =>(
               <NavLink
                 key={route.path}
@@ -33,13 +32,12 @@ function App(){
                   {route.name}
               </NavLink>
             ))}
-       
           </nav>
         </div>
 
         
           
-          <div>
+        <div>
           {routes.map(({ path, Component }) => (
             <Route key={path} exact path={path}>
               {({ match }) => (
@@ -59,7 +57,7 @@ function App(){
         </div>
       </>
     </Router>
-)
-  }
+);
+  };
 
 export default App;
