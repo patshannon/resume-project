@@ -49,12 +49,10 @@ function ContentBox(){
             <div className = "col-md-6 float-left">
                 <div className="right-box margin-bottom">
                     <div className="infoBox margin-bottom">
-                        <p className="p-large">
-                        <b>
+                        <h5 className="icon-grey">
                             <FontAwesomeIcon icon={faArrowAltCircleUp} className="color-navy fa-icon" />
                             Soft-Skills
-                        </b>
-                        </p>
+                        </h5>
 
                         <p>Analytical Thinking</p>
                         <div className="skills-meter-background">
@@ -93,12 +91,10 @@ function ContentBox(){
             <div className = "col-md-6 float-left">
                 <div className="right-box margin-bottom">
                     <div className="infoBox margin-bottom">
-                        <p className="p-large">
-                            <b>
-                                <FontAwesomeIcon icon={faArrowAltCircleUp} className="color-navy fa-icon" />
-                                Unique Skills
-                            </b>
-                            </p>
+                        <h5 className="icon-grey">
+                            <FontAwesomeIcon icon={faArrowAltCircleUp} className="color-navy fa-icon" />
+                            Unique Skills
+                        </h5>
                             <p>Piloting</p>
                             <div className="skills-meter-background">
                                 <div className="skills-meter-foreground" style={{width:"95%"}}>95%</div>
@@ -126,12 +122,12 @@ function ContentBox(){
 
                             <hr></hr>
 
-                            <p className="p-large">
-                                <b>
-                                    <FontAwesomeIcon icon={faAward} className="color-navy fa-icon" />
-                                    Awards & Achievements
-                                </b>
-                            </p>
+                            <h5 className="icon-grey">
+                                
+                                <FontAwesomeIcon icon={faAward} className="color-navy fa-icon" />
+                                Awards & Achievements
+                                
+                            </h5>
 
                             <p>Moncton Flight College Employer’s Choice Award
                                 <br></br>

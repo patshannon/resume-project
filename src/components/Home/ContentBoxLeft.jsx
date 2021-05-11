@@ -9,7 +9,7 @@ function ContentBoxLeft(){
                 <div className="picture-box">
                     <img className="headshot" src="/img/headshot.png"></img>
                     <div className="name-box">
-                        <h2>{process.env.REACT_APP_FULL_NAME}</h2>
+                        <h2 class="name-font">{process.env.REACT_APP_FULL_NAME}</h2>
                      </div>
                 </div>
                 
@@ -38,12 +38,11 @@ function ContentBoxLeft(){
 
                     <hr></hr>
 
-                    <p className="p-large">
-                        <b>
+                    <h5 className="icon-grey">
                             <i className="fa fa-asterisk fa-fw color-navy"></i>
                             Skills
-                        </b>
-                    </p>
+                        
+                    </h5>
                     
                     <p>HTML</p>
                     <div className="skills-meter-background">
@@ -76,12 +75,10 @@ function ContentBoxLeft(){
                     </div>
 
                     <br></br>
-                    <p className="p-large">
-                        <b>
+                    <h5 className="icon-grey">
                         <i className="fa fa-globe fa-fw color-navy"></i>
                         Languages
-                        </b>
-                    </p>
+                    </h5>
 
                     <p>English</p>
                     <div className="skills-meter-background">

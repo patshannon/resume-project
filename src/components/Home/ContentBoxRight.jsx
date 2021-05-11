@@ -10,8 +10,8 @@ function ContentBoxRight(){
           </h2>
 
           <div className="infoBox">
-            <h5 className="opacity-60"><b>Full Stack Web Developer</b></h5>
-            <h6 className="opacity-60"><b>Freelancer</b></h6>
+            <h5 className="icon-grey">Full Stack Web Developer</h5>
+            <h6 className="icon-grey weight-400">Freelancer</h6>
             <h6 className="color-navy"><i className="fa fa-calendar fa-fw margin-right color-navy"></i>
               Aug 2020 - <span className="tag round ">Current</span>
             </h6>
@@ -20,8 +20,8 @@ function ContentBoxRight(){
           </div>
 
           <div className="infoBox">
-            <h5 className="opacity-60"><b>Pilot</b></h5>
-            <h6 className="opacity-60"><b>Porter Airlines</b></h6>
+            <h5 className="icon-grey">Pilot</h5>
+            <h6 className="icon-grey weight-400">Porter Airlines</h6>
             <h6 className="color-navy"><i className="fa fa-calendar fa-fw margin-right"></i>
               Aug 2018 - <span className="tag round">Current</span>
             </h6>
@@ -30,8 +30,8 @@ function ContentBoxRight(){
           </div>
 
           <div className="infoBox">
-            <h5 className="opacity-60"><b>Medevac Pilot</b></h5>
-            <h6 className="opacity-60"><b>PAL Aerospace</b></h6>
+            <h5 className="icon-grey">Medevac Pilot</h5>
+            <h6 className="icon-grey weight-400">PAL Aerospace</h6>
             <h6 className="color-navy"><i className="fa fa-calendar fa-fw margin-right"></i>
               Jun 2016 - Aug 2018
             </h6>
@@ -40,8 +40,8 @@ function ContentBoxRight(){
           </div>
 
           <div className="infoBox">
-            <h5 className="opacity-60"><b>Flight Instructor</b></h5>
-            <h6 className="opacity-60"><b>Moncton Flight College</b></h6>
+            <h5 className="icon-grey">Flight Instructor</h5>
+            <h6 className="icon-grey weight-400">Moncton Flight College</h6>
             <h6 className="color-navy"><i className="fa fa-calendar fa-fw margin-right"></i>
               Jul 2013 - Jun 2016
             </h6>
@@ -56,8 +56,8 @@ function ContentBoxRight(){
           </h2>
 
           <div className="infoBox">
-            <h5 className="opacity-60"><b>The Complete 2021 Web Development Bootcamp</b></h5>
-            <h6 className="opacity-60"><b>Udemy.com</b></h6>
+            <h5 className="icon-grey">The Complete 2021 Web Development Bootcamp</h5>
+            <h6 className="icon-grey weight-400">Udemy.com</h6>
             <h6 className="color-navy"><i className="fa fa-calendar fa-fw margin-right"></i>
               May 2021
             </h6>
@@ -66,8 +66,8 @@ function ContentBoxRight(){
           </div>
 
           <div className="infoBox">
-            <h5 className="opacity-60"><b>Bachelor Of Science & Commerical Pilot License</b></h5>
-            <h6 className="opacity-60"><b>Mount Allison University</b></h6>
+            <h5 className="icon-grey">Bachelor Of Science & Commerical Pilot License</h5>
+            <h6 className="icon-grey weight-400">Mount Allison University</h6>
             <h6 className="color-navy"><i className="fa fa-calendar fa-fw margin-right"></i>
               May 2013
             </h6>
