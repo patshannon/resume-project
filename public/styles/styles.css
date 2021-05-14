@@ -266,17 +266,34 @@ color: white;
     font-weight: 400;
 }
 
+.inputBox{
+    display: block;
+    margin: 20px auto;
+    width: 70%;
+    max-width: 400px;
+}
+.contact-form{
+    text-align: center;
+}
+textarea{
+    height: 12rem;
+}
+#send{
+    width: 100px;
+}
+
+.contactBox{
+    margin: auto;
+    width:450px
+}
 
 
-
-
-
-
-
-
-
-
-
+input:focus::placeholder {
+    color: transparent;
+  }
+textarea:focus::placeholder{
+    color: transparent;
+ }
 
 
 

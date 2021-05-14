@@ -23,7 +23,7 @@ function ContentBoxRight(){
             <h5 className="icon-grey">Pilot</h5>
             <h6 className="icon-grey weight-400">Porter Airlines</h6>
             <h6 className="color-navy"><i className="fa fa-calendar fa-fw margin-right"></i>
-              Aug 2018 - <span className="tag round">Current</span>
+              Aug 2018 - <span className="tag round">Current</span><span style={{fontSize: "10px"}}> Furloughed</span>
             </h6>
             <p>705 Operation, conducting scheduled flights for Porter Airlines as a First Officer on the Q400</p>
             <hr></hr>

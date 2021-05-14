@@ -11,7 +11,7 @@ import { logDOM } from "@testing-library/dom";
 const routes = [
   { path: '/', name: 'Home', Component: Home },
   { path: '/about-me', name: 'About Me', Component: About },
-  // { path: '/contact', name: 'Contact', Component: Contact },      // WORK IN PROGESS
+  { path: '/contact', name: 'Contact', Component: Contact },      // WORK IN PROGESS
 ]
 
 

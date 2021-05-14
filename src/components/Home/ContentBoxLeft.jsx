@@ -59,7 +59,7 @@ function ContentBoxLeft(){
                         <div className="skills-meter-foreground" style={{width:"70%"}}>70%</div>
                     </div>
                     
-                    <p>Express</p>
+                    <p>Javascript</p>
                     <div className="skills-meter-background">
                         <div className="skills-meter-foreground" style={{width:"60%"}}>60%</div>
                     </div>

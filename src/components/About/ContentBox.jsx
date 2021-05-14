@@ -35,7 +35,7 @@ function ContentBox(){
                         <br></br>
                         <br></br>
                             Following my passion for technology and design I recently completed an online course in Web Development.  
-                            Focusing on HTML / CSS / Bootstrap / Javascript / REACT / NODE.js as well as database control I have gained the required skills to start my journey towards being a professional Full Stack Web Developer.
+                            Focusing on HTML / CSS / Bootstrap / Javascript / REACT / NODE.js as well as database control I have gained the required skills to start my journey towards becoming a professional Full Stack Web Developer.
                         <br></br>
                         <br></br>
                             In my spare time I enjoy golfing, playing guitar, photography, exercising and learning new things.
