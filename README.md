@@ -6,4 +6,4 @@ Its a rough copy of my personal resume.  Nothing fancy here, simple project wher
 <hr>
 Deployed using Heroku
 <br>
-https://www.patrick-shannon.com/
+https://patrick-shannon.herokuapp.com/
