@@ -9,7 +9,7 @@ function ContentBoxLeft() {
         <div className="picture-box">
           <img className="headshot" src="/img/headshot2.jpg"></img>
           <div className="name-box">
-            <h2 class="name-font">Patrick Shannon</h2>
+            <h2 className="name-font">Patrick Shannon</h2>
           </div>
         </div>
 
